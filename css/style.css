@@ -304,6 +304,7 @@ img{
 }
 .footer__img-logo{
     margin-bottom: 3rem;
+    margin-left: .75rem;
 }
 .list{
     list-style: none;
